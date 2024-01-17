@@ -18,4 +18,8 @@ ensuite il regarde les nouvelles annonces en se basant sur l'historique de sa su
 ![image](https://github.com/elho2007/AdsCrawler/assets/34011591/24573946-f815-464c-8178-076dd7201d9b)
 
 
-À venir: Une vidéo démonstratif, plus de détails sur le développement de *AdsCrawler*.
+À venir: 
+- Une vidéo démonstratif,
+- Plus de détails sur le développement de *AdsCrawler*,
+- Personalisation (alerts, sites, mots clées, etc..),
+- Possibilités et idées d'utilisation.
