@@ -14,3 +14,5 @@ Souvent, on a cherche un produit ou un service sur les sites d'annonces mais on 
 AdsCrawler ouvre la page de recherche du site à surveiller et extrait toutes les annonces.
 
 ensuite il regarde les nouvelles annonces en se basant sur l'historique de sa surveillance. Il fait ensuite un filtrage et élémination des annonces non pertinantes en se basant sur des mots clés configurés. Il détermine également les annonces urgentes à voir en se basant sur des critères définis par l'utilisateur.
+
+À venir: Une vidéo démonstratif, plus de détails sur le développement de *AdsCrawler*.
