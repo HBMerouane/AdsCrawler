@@ -1,7 +1,7 @@
 # AdsCrawler
 <table><tr><td>
 New listings on classified advertisement websites that might interest us and that we would want to be the first to review, <i>AdsCrawling</i> tracks these ads and send alerts instantly. Supported websites: Ebay, KleinAnzeigen, Leboncoin.
-*Python, Selenium*
+<i>Python, Selenium</i>
 </td></tr></table>
 
 ## Context
