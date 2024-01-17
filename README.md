@@ -13,6 +13,9 @@ Souvent, on a cherche un produit ou un service sur les sites d'annonces mais on 
 ## Comment ça fonctionne
 *AdsCrawler* ouvre la page de recherche du site à surveiller et extrait toutes les annonces.
 
-ensuite il regarde les nouvelles annonces en se basant sur l'historique de sa surveillance. Il fait ensuite un filtrage et élémination des annonces non pertinantes en se basant sur des mots clés configurés. Il détermine également les annonces urgentes à voir en se basant sur des critères définis par l'utilisateur.
+ensuite il regarde les nouvelles annonces en se basant sur l'historique de sa surveillance. Il fait ensuite un filtrage et élémination des annonces non pertinantes en se basant sur des mots clés configurés. Il détermine également les annonces urgentes à voir en se basant sur des critères définis par l'utilisateur. S'il y a des annonces susceptible d'intéresser l'utilisateur, une alerte est envoyé sur télégram contenant les informations essentielles de ces annonces et un lien vers une page web qui détaille.
+
+![image](https://github.com/elho2007/AdsCrawler/assets/34011591/24573946-f815-464c-8178-076dd7201d9b)
+
 
 À venir: Une vidéo démonstratif, plus de détails sur le développement de *AdsCrawler*.
